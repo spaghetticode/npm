@@ -1,6 +1,8 @@
 npm(1) -- node package manager
 ==============================
 
+[![Build Status](https://secure.travis-ci.org/spaghetticode/npm.png)](http://travis-ci.org/spaghetticode/npm)
+
 ## SYNOPSIS
 
 This is just enough info to get you up and running.
